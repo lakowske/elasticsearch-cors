@@ -1,2 +1,3 @@
 # elasticsearch-cors
-Elasticsearch docker build with cors enabled
+
+The Elasticsearch docker image with cors enabled elasticsearch.yml
